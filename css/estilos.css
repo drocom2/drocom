@@ -96,12 +96,13 @@ article{
 	font-size: 26px;
 	text-align: right;
 	color: white;
+	left: -70px;
 }
 div#logo img{
 	width: 60px;
 	height: 50px;
 	position: relative;
-	left: 150px;
+	left: 110px;
 	top: -2px;
 	cursor: pointer;
 
@@ -111,7 +112,7 @@ div#droc img{
 	height: 120px;
 	position: absolute;
 	top: 178px;
-	left: 200px;
+	left: 60px;
 	border: 2px solid black;
 }
 div#droco img{
@@ -119,7 +120,7 @@ div#droco img{
 	height: 120px;
 	position: absolute;
 	top: 178px;
-	left: 900px;
+	left: 740px;
 	border: 2px solid black;
 }
 
@@ -156,13 +157,13 @@ div#capacitadores{
 }
 div#img2 img{
 	position: relative;
-	left: 600px;
+	left: 430px;
 	top: 40px;
 	margin: solid 2px black;
 }
 div#img1 img{
 	position: relative;
-	left: 600px;
+	left: 430px;
 	top: 10px;
 	z-index: 80px;
 }
@@ -178,7 +179,7 @@ div#img4 img{
 }
 div#logo2 img{
 	top: -75px;
-	left: 970px;
+	left: 870px;
 	position:relative;
 }
 
